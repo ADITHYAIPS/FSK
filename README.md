@@ -98,6 +98,7 @@ Carrier Signal (f2): Used for bit = 1.
 FSK Modulated Signal: Frequency changes according to the binary data.
 Final Demodulated Signal: Recovered digital signal from the FSK waveform.
 ![image](https://github.com/user-attachments/assets/d66da7b9-b39b-4bea-bca9-65e217faa263)
+![image](https://github.com/user-attachments/assets/b4c86b95-677c-4f5c-91b0-8676ea9e3950)
 
 # Results
 
